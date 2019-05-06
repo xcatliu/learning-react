@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "getting_started/react-0.12.0/examples/basic-commonjs/package.json",
+        "getting_started/react-0.12.0/examples/server-rendering/jsapp/package.json",
+        "getting_started/react-0.12.0/examples/server-rendering/reactserver/package.json"
+      ]
+    }
+  }
+}
